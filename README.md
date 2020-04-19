@@ -1,1 +1,1 @@
-k8s github mirror
+gcr.io github mirror
